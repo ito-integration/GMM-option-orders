@@ -1,1 +1,1 @@
-In the
+Each folder includes the original data and corresponding results. Specifically, the sub-path `raw data` consists of original dataset; the sub-path `LLM results` consists of outputs from corresponding LLMs; the sub-path `calibrated results` records the coefficients and outputs of our pipeline.
