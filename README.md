@@ -7,4 +7,4 @@ The file named `GMM_pipeline.py` implements our GMM-based pipeline, including th
 
 The performance comparison on abstention task is performed in `MCQ scenario/Abstention pipeline.py`.
 
-The data and the corresponding results are provided in `Data`. 
+The original dataset and the corresponding evaluation results are provided in `Data`. 
